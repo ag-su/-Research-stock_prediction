@@ -10,26 +10,29 @@
 <br>
 
 ## 연구
-### [01.stock_dataset.ipynb](https://github.com/ag-su/stock_prediction_research/blob/main/01.stock_dataset.ipynb)
+### 1. 베이스라인 모델 선택 
+#### [01.stock_dataset.ipynb](https://github.com/ag-su/stock_prediction_research/blob/main/01.stock_dataset.ipynb)
 
 
-### [02.model_selection.ipynb](https://github.com/ag-su/stock_prediction_research/blob/main/02.model_selection.ipynb)
+#### [02.model_selection.ipynb](https://github.com/ag-su/stock_prediction_research/blob/main/02.model_selection.ipynb)
 
 
-### [03.add_index.ipynb](https://github.com/ag-su/stock_prediction_research/blob/main/03.add_index.ipynb)
+### 2. 데이터 전처리 
+#### [03.add_index.ipynb](https://github.com/ag-su/stock_prediction_research/blob/main/03.add_index.ipynb)
 
 
-### [04.scaling.ipynb](https://github.com/ag-su/stock_prediction_research/blob/main/04.scaling.ipynb)
+#### [04.scaling.ipynb](https://github.com/ag-su/stock_prediction_research/blob/main/04.scaling.ipynb)
 
 
-### [05.filtering.ipynb](https://github.com/ag-su/stock_prediction_research/blob/main/05.filtering.ipynb)
+#### [05.filtering.ipynb](https://github.com/ag-su/stock_prediction_research/blob/main/05.filtering.ipynb)
 
 
-### [06.shap_value.ipynb](https://github.com/ag-su/stock_prediction_research/blob/main/06.shap_value.ipynb)
+### 3. 주가 상승 추세 패턴 검출 연구
+#### [06.shap_value.ipynb](https://github.com/ag-su/stock_prediction_research/blob/main/06.shap_value.ipynb)
 
 
-### [07.tsne.ipynb](https://github.com/ag-su/stock_prediction_research/blob/main/07.tsne.ipynb)
+#### [07.tsne.ipynb](https://github.com/ag-su/stock_prediction_research/blob/main/07.tsne.ipynb)
 
 
-### [08.cluster_filtering.ipynb](https://github.com/ag-su/stock_prediction_research/blob/main/08.cluster_filtering.ipynb)
+#### [08.cluster_filtering.ipynb](https://github.com/ag-su/stock_prediction_research/blob/main/08.cluster_filtering.ipynb)
 
